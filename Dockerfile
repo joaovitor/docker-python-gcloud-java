@@ -1,4 +1,4 @@
-FROM joaovitor/python-gcloud-node:v4
+FROM joaovitor/python-gcloud-node:v5
 
 ## Java 7 installation from openjdk-7 recipe
 

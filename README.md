@@ -12,7 +12,7 @@ Base image from: joaovitor/python-gcloud-node:v4
 
 ## Build the image
 ```
-docker build -t joaovitor/python-gcloud-java:v1 .
+docker build -t joaovitor/python-gcloud-java:v2 .
 ```
 
 ## Push the image
